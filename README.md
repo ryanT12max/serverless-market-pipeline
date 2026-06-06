@@ -2,7 +2,7 @@
 
 A serverless Python ETL (Extract, Transform, Load) pipeline deployed via Oracle Cloud Infrastructure (OCI). This architecture automatically ingests live market data, normalizes the metrics, and securely loads the data into a relational enterprise database to feed a live web dashboard.
 
-**View the Live Dashboard:** [cloud-financial-dashboard.vercel.app] 
+**View the Live Dashboard:** (https://cloud-financial-dashboard.vercel.app) 
 
 ## 🏗️ Architecture & Tech Stack
 
